@@ -1,0 +1,22 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}.form {
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    margin: 2px;  
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.iteam{
+    display: flex;
+    gap: 20px;
+}
+

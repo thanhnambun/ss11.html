@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.form {
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+}
+.img {
+    background-image:url(https://toplist.vn/images/800px/ly-do-khien-nguoi-ta-so-hai-viec-chia-tay-ngay-ca-khi-tinh-yeu-khong-con-dam-sau-645507.jpg) ;
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.header {
+    border: 2px solid white;
+    color: blanchedalmond;
+}
+.icon{
+    display: flex;
+    justify-content:end;
+}
+.iteam{
+    width: 50px;
+    height: 50px;
+    background: grey;
+}
+.iteam:hover{
+    border-radius: 50%;
+    background: black;
+}
+.iteam1{
+    width: 50px;
+    height: 50px;
+    background: grey;
+}
+.iteam1:hover{
+    opacity: 0.8;
+}
+

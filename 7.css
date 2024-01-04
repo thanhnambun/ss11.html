@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.form {
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    display: flex;
+}
+.body{
+    display: flex;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.a{
+    display: flex;
+}
+.iteam{
+    display: flex;
+    flex-direction: column;
+}
+.iteam1{
+    display: flex;
+}
+.com{
+    display: flex;
+    flex-direction: column;
+}

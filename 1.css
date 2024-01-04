@@ -1,0 +1,24 @@
+    @import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+.font{
+    font-family: 'Long Cang', cursive;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.web-header {
+    width: 100%;
+    height: 56px;
+    background-color: rgb(101, 105, 170);
+    align-items: center;
+}
+.navar-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap : 10px;
+}
+.h1{
+    font-family: 'Long Cang', cursive;
+}
